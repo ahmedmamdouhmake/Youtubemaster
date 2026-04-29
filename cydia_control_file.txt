@@ -1,0 +1,11 @@
+Package: com.yourrepo.youtubetranscripts
+Name: YouTube Transcript Extractor
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: أداة لاستخراج الترانسكريبشن من فيديوهات قنوات اليوتيوب وحفظها في ملف نصي شامل. يدعم استخراج كل الفيديوهات تلقائياً مع إمكانية الإيقاف في أي وقت.
+Homepage: https://yourrepo.com
+Maintainer: Your Name <your@email.com>
+Author: Your Name <your@email.com>
+Section: Utilities
+Depends: firmware (>= 13.0)
+Icon: file:///Applications/YouTubeTranscripts.app/AppIcon60x60@2x.png
