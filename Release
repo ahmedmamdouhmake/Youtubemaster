@@ -1,0 +1,11 @@
+Origin: Ahmed Mamdouh Repo
+Label: Ahmed Mamdouh
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: YouTube Transcript Tools Repository
+
+Date: 2026-04-29 17:59:21
+User: ahmedmamdouhmake
